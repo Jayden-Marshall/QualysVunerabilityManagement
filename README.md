@@ -1,26 +1,18 @@
-<h1>Qualys Vunerability Management <a href="https://pdf.ac/2YnwkT">Certification</a> </h1>
+<h1>Qualys Vulnerability Management <a href="https://pdf.ac/2YnwkT">Certification</a> </h1>
 
 <h2>Description</h2>
 
-Completed the Google Cyber Security Professional program, gaining expertise in cybersecurity practices and their organizational impact. Acquired skills in risk identification, threat mitigation, and network protection using SIEM tools. Developed proficiency in Python, Linux, SQL, and Intrusion Detection Systems (IDS), enhancing readiness to tackle contemporary cybersecurity challenges.
+In the Qualys Vulnerability Management Course, I gained foundational knowledge in identifying and mitigating security risks. I learned to define vulnerabilities, understand the importance of Vulnerability Management, and establish effective scopes for assessments. Additionally, I explored different options for managing vulnerabilities and evaluated their effectiveness in network monitoring and risk identification. By completing this course, I obtained essential skills and insights into best practices for Vulnerability Management.
 
 
 
-<h2>Achievements:</h2>
+<h2>Skills Demonstrated:</h2>
 
-- **Cybersecurity Fundamentals Proficiency:** Acquired a solid understanding of cybersecurity practices and their significance for organizational security.
-- **Risk Identification and Mitigation Expertise:** Demonstrated expertise in identifying and assessing risks, threats, and vulnerabilities to safeguard networks, devices, people, and data.
-- **Network Protection and SIEM Tool Proficiency::** Applied Security Information and Event Management (SIEM) tools proficiently to monitor and analyze security events and incidents.
-- **Hands-On Experience in Python, Linux, and SQL:** Gained practical experience with Python programming language, Linux operating system, and SQL database management.
-- **Intrusion Detection Systems Mastery:**  Demonstrated mastery in configuring and managing Intrusion Detection Systems (IDS) to detect and respond to potential security threats.
-
-<h2>Skills Demonstrated: </h2>
-
-- **Python Programming:** Proficiency in Python programming language for automation, scripting, and cybersecurity tool development.
-- **Security Information and Event Management (SIEM) Tools:** Competence in utilizing SIEM tools for real-time security event monitoring, threat detection, and incident response.
-- **SQL:** Proficient in SQL database querying and management for data analysis, reporting, and security-related tasks.
-- **Linux:** Experience in working with Linux operating systems for system administration, network configuration, and security-related tasks.
-- **Intrusion Detection Systems (IDS):**  Mastery in configuring, deploying, and managing Intrusion Detection Systems (IDS) for proactive threat detection and response in network environments.
+- **Comprehensive Understanding of Vulnerabilities:**  Developed a clear understanding of vulnerabilities and their implications for organizational security.
+- **Appreciation for Vulnerability Management:** Recognized the importance of Vulnerability Management in proactively identifying and mitigating security risks.
+- **Scope Definition Proficiency:** Acquired the skills to define the scope of Vulnerability Management initiatives based on organizational needs and priorities.
+- **Evaluation of VM Solutions:** Evaluated various options for Vulnerability Management solutions and assessed their effectiveness in network monitoring and risk identification.
+- **Adoption of Best Practices:** Demonstrated knowledge of best practices in Vulnerability Management, ensuring adherence to industry standards and guidelines.
   
 <h2>Program walk-through:</h2>
 
