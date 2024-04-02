@@ -1,4 +1,4 @@
-<h1>Qualys Vulnerability Management <a href="https://pdf.ac/2YnwkT">Certification</a> </h1>
+<h1>Qualys Vulnerability Management 
 
 <h2>Description</h2>
 
@@ -14,42 +14,13 @@ In the Qualys Vulnerability Management Course, I gained foundational knowledge i
 - **Evaluation of VM Solutions:** Evaluated various options for Vulnerability Management solutions and assessed their effectiveness in network monitoring and risk identification.
 - **Adoption of Best Practices:** Demonstrated knowledge of best practices in Vulnerability Management, ensuring adherence to industry standards and guidelines.
   
-<h2>Program walk-through:</h2>
-
-<p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
+**Certification of Completeion:**
+<img src="https://github.com/Jayden-Marshall/QualysVunerabilityManagement/assets/145166234/fc3fd04b-02e7-4c22-9fad-e086f379a685" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <!--
  ```diff
 - text in red
-+ text in green
-! text in orange
+
+
 # text in gray
 @@ text in purple (and bold)@@
 ```
